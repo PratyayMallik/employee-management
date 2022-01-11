@@ -3,7 +3,7 @@ from app import app
 from flask import request, render_template, redirect, url_for
 import os
 #from skimage.metrics import structural_similarity
-import imutils
+#import imutils
 import cv2
 import numpy as np
 from PIL import Image
