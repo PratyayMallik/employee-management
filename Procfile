@@ -1,1 +1,1 @@
-web: gunicorn employee-management:app
+web: gunicorn app:app
